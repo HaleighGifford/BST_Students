@@ -1,28 +1,4 @@
 //*****************************************************************************************************
-//
-//		File:			    studentList.cpp
-//		
-//		Student:			Haleigh Cates
-//
-//		Assignment:	 	    Program  #11
-//
-//		Course Name:		Data Structures II  
-//
-//		Course Number:		COSC 3100 - 01
-//
-//		Due:			    April 3, 2019 
-//
-//
-//		This program uses a Binary Search Tree to keep the academic records
-//		for each student in a college.
-//
-//		Other files required:
-//                       1.   BST.h
-//						 2.	  student.h
-//						 3.	  node.h
-//						 4.	  studentFile.txt
-//		
-//*****************************************************************************************************
 
 #include <iostream>
 #include <fstream>
